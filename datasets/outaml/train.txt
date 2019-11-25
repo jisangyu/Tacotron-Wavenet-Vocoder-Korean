@@ -1,0 +1,252 @@
+aml.0261-audio.npy|aml.0261-mel.npy|aml.0261-linear.npy|107100|357|지금 오늘 포함해서 많아야 다섯번에서 |aml.0261.npz
+aml.0893-audio.npy|aml.0893-mel.npy|aml.0893-linear.npy|86400|288|이용해서 백프로퍼게이션을해서 이제 구하면됩|aml.0893.npz
+aml.0067-audio.npy|aml.0067-mel.npy|aml.0067-linear.npy|293400|978|근데 요거랑 대조적으로 비슷하게 컨티뉴얼 러닝이라고도 해요 순차적으로 데이터가 연속적으로 들어올때 배우는거|aml.0067.npz
+aml.0150-audio.npy|aml.0150-mel.npy|aml.0150-linear.npy|87900|293|파저티브라고 예측한 것들 중에서 진짜 파저티브를 세는 거죠|aml.0150.npz
+aml.0857-audio.npy|aml.0857-mel.npy|aml.0857-linear.npy|227100|757|뭐 토이 이그잼플 데이터 셋이 두가지가 있는데 많이 쓰는것 중에 여기 나온거는 티 팔 텐이라고 잇어요 이거는 어|aml.0857.npz
+aml.0451-audio.npy|aml.0451-mel.npy|aml.0451-linear.npy|71100|237|나이스한 뿽션이 뭐냐라고 했을때 찾은게 |aml.0451.npz
+aml.0440-audio.npy|aml.0440-mel.npy|aml.0440-linear.npy|80400|268|요러케쓰면 이 뉴런 뉴런 하나를 |aml.0440.npz
+aml.0823-audio.npy|aml.0823-mel.npy|aml.0823-linear.npy|91800|306|그리고 일번이나 오번을 가셔서 보시면 될것같이요|aml.0823.npz
+aml.0404-audio.npy|aml.0404-mel.npy|aml.0404-linear.npy|171600|572|근데 어째뜬 요러케 생긴 뉴런이 이쓰면 주의에 뉴런들로 부터 신호를 받는 부분 여기에서 신호를 받는 데 |aml.0404.npz
+aml.0456-audio.npy|aml.0456-mel.npy|aml.0456-linear.npy|250800|836|요러케 된 뿽션을 찾곳 싶은거죠 여기가 이분의 일이되고 일이고 영이고 요러케 하면 우리가 요러케하면 우리가 생각했던 스탭뿽션이랑 비슷하지만 부드럽게 변하고|aml.0456.npz
+aml.0458-audio.npy|aml.0458-mel.npy|aml.0458-linear.npy|81600|272|요 쀙션이 씨그모이드 뿽션이고 씨그모이드 뿽션이고|aml.0458.npz
+aml.0069-audio.npy|aml.0069-mel.npy|aml.0069-linear.npy|72600|242|어떤 문제에 대해 배우고 다른 문제에 적용 하는 거|aml.0069.npz
+aml.0976-audio.npy|aml.0976-mel.npy|aml.0976-linear.npy|237000|790|흐흐흐 어 그러면 시험문제 궁금하신분 있으시면은 저 인제 끝나고 잠깐 제 오피스에서 보시면 될 것 같고 오늘은 여기까지 하겠습니다 수고하셨습니다|aml.0976.npz
+aml.0876-audio.npy|aml.0876-mel.npy|aml.0876-linear.npy|80700|269|조금씩 조금씩 바꾸면서 숫자 잘나오게 만드는 그게|aml.0876.npz
+aml.0898-audio.npy|aml.0898-mel.npy|aml.0898-linear.npy|80100|267|있고 그담에 엑스랑 더블유랑은 웨이트랑|aml.0898.npz
+aml.0437-audio.npy|aml.0437-mel.npy|aml.0437-linear.npy|119700|399|이 쎄타는 파라미터로 들어가서 없앨수도 있어요 없앨쑤도 있어요|aml.0437.npz
+aml.0842-audio.npy|aml.0842-mel.npy|aml.0842-linear.npy|83100|277|그래서 이거를 엔터로 실행시키면 한줄 한줄 실행시키실수|aml.0842.npz
+aml.0173-audio.npy|aml.0173-mel.npy|aml.0173-linear.npy|80100|267|여기서 디씨전 바운데리로 좋은게 뭐냐 수업 시간에 했죠|aml.0173.npz
+aml.0171-audio.npy|aml.0171-mel.npy|aml.0171-linear.npy|125100|417|됐고요 하나만 하면 뭐가 문제가 생기냐 하면요 한쪽으로만|aml.0171.npz
+aml.0829-audio.npy|aml.0829-mel.npy|aml.0829-linear.npy|80100|267|구글 이렇게 해서 폴랩 치시면 돼요 폴랩|aml.0829.npz
+aml.0360-audio.npy|aml.0360-mel.npy|aml.0360-linear.npy|91800|306|그러면 엑스가 영일때는 이분의일 이라는 점을 지나갈꺼예요|aml.0360.npz
+aml.0191-audio.npy|aml.0191-mel.npy|aml.0191-linear.npy|134400|448|소프트 마진 할 때 슬렉 베리어블을 디시전 바운더리로 부터 재신 분들이 많아요|aml.0191.npz
+aml.0237-audio.npy|aml.0237-mel.npy|aml.0237-linear.npy|137700|459|그리고 어 시험지는 제가 온라인에 올리지 않을 생각입니다|aml.0237.npz
+aml.0109-audio.npy|aml.0109-mel.npy|aml.0109-linear.npy|196500|655|그러면 우리는 단순한 문 모델로 이렇게 해서 큰 바이어스를 유지하는게 이게 바이어스 잖아요|aml.0109.npz
+aml.0836-audio.npy|aml.0836-mel.npy|aml.0836-linear.npy|186600|622|어 요기 눌르고 여기 눌르시면은 이런 주피터 노트북 페이지가 나와요 거기에 폴랩 아이콘이 있습니다|aml.0836.npz
+aml.0314-audio.npy|aml.0314-mel.npy|aml.0314-linear.npy|69900|233|이런 작은 이미지들이 생겨나고 그거를 |aml.0314.npz
+aml.0065-audio.npy|aml.0065-mel.npy|aml.0065-linear.npy|104700|349|그래서 이것은 온라인 학습법이라고 하죠 온라인 러닝|aml.0065.npz
+aml.0297-audio.npy|aml.0297-mel.npy|aml.0297-linear.npy|253800|846|곱해보면 비슷한 패턴이 나오면 이너 프로덕트 결과 값이 크게 나오겠죠 다른 패턴이 나오면 작게 나오겠죠 그렇게 해서 요런 필터를 해서 새로운 이미지를 만듭니다|aml.0297.npz
+aml.0891-audio.npy|aml.0891-mel.npy|aml.0891-linear.npy|112800|376|그래서 보통 이렇게 된거를 그래디언트를 어떻게 구하냐 손으로 구하냐 손으로 안구한다|aml.0891.npz
+aml.0442-audio.npy|aml.0442-mel.npy|aml.0442-linear.npy|139800|466|요런 리니어 리그레션의 로지스틱리그레션 비슷하게 생긴걸 사람들은 만들고 싶어 했어요|aml.0442.npz
+aml.0480-audio.npy|aml.0480-mel.npy|aml.0480-linear.npy|128700|429|리그레이션 뿽션이 있는데 그게 딴게 아니라 우리가 알고있는 힌지 뿽션이라|aml.0480.npz
+aml.0450-audio.npy|aml.0450-mel.npy|aml.0450-linear.npy|86700|289|그래서 사람들이 생각한게 요거랑 비슷하게 생긴|aml.0450.npz
+aml.0294-audio.npy|aml.0294-mel.npy|aml.0294-linear.npy|143400|478|이들을 필터를 만들어서 한번 훓어 봅니다 훓어 봅니다 되게 여기에 |aml.0294.npz
+aml.0083-audio.npy|aml.0083-mel.npy|aml.0083-linear.npy|130500|435|나이브 베이즈는 이거 너무 많이 해가꼬 그냥 답만 쓸께요 이거 다 우리 답을 썼기 때문에|aml.0083.npz
+aml.0918-audio.npy|aml.0918-mel.npy|aml.0918-linear.npy|294600|982|맨 처음에 지금 원래 주어진 값이 미분할 때는 어느 위치에서 미분을 할지 우리가 계산을 해야하잖아요 그러니까 인풋이 마이너스이 오 사라고 일단 가정을 해볼게요|aml.0918.npz
+aml.0844-audio.npy|aml.0844-mel.npy|aml.0844-linear.npy|111600|372|어 지금 여기 있는 예제는 제가 다른 어 깃헙|aml.0844.npz
+aml.0499-audio.npy|aml.0499-mel.npy|aml.0499-linear.npy|157200|524|어 좋은질문인데요 시그모이드 뿽션은 미분이 되니까 썼잖아요 근데 요거는 미분이 되나요 안되나요|aml.0499.npz
+aml.0379-audio.npy|aml.0379-mel.npy|aml.0379-linear.npy|125100|417|그러면 우리가 바이너리로 바꾸고 싶었던 것처럼 비슷하게 할 수 있|aml.0379.npz
+aml.0807-audio.npy|aml.0807-mel.npy|aml.0807-linear.npy|85200|284|여 밑에 보면은 뭐 셀 바지랑 앞에꺼|aml.0807.npz
+aml.0946-audio.npy|aml.0946-mel.npy|aml.0946-linear.npy|78000|260|이렇게 요거를 로컬 그래디언트라고해요 로컬 그래디언트|aml.0946.npz
+aml.0501-audio.npy|aml.0501-mel.npy|aml.0501-linear.npy|103200|344|그래서 컨벡스 옵티마이제이션에서 또 인제 배우는것들이 있는데|aml.0501.npz
+aml.0490-audio.npy|aml.0490-mel.npy|aml.0490-linear.npy|144600|482|그 다음 영이 되는 순간 영보다 커지는 순간 요러케 와이는 액스 그래프 처럼|aml.0490.npz
+aml.0058-audio.npy|aml.0058-mel.npy|aml.0058-linear.npy|299700|999|기계학습 안에서도 문제들이 엄청 많이 있잖아요 세부적으로 그런것들의 정의들을 알고 현업에서 일하실때 수월하시라고 이런 문제를 냈는데|aml.0058.npz
+aml.0461-audio.npy|aml.0461-mel.npy|aml.0461-linear.npy|231600|772|그서 시그마를 아까 여기 이 그렸던 스탭뿽션으로 그린게 아니라 요런 씨그모이드 뿽션으로 그리게 되면 그게 뉴럴 네트워크|aml.0461.npz
+aml.0272-audio.npy|aml.0272-mel.npy|aml.0272-linear.npy|164700|549|이게 한 이천 십사년 십오년부터 그게 시작 되갔고 지금은 이 딥러닝이 없으면 |aml.0272.npz
+aml.0931-audio.npy|aml.0931-mel.npy|aml.0931-linear.npy|231600|772|어 이렇게 각각의 로컬 그래디언트를 구한다음에 그다음에 체인룰을 이용해서 풀게됩니다 체인룰을 이용해서 풀게됩니다|aml.0931.npz
+aml.0910-audio.npy|aml.0910-mel.npy|aml.0910-linear.npy|138000|460|랑 같이 있는 어떠한 로스 뻥션이 있어도 요런 컴퓨테이셔널 그래프 대상|aml.0910.npz
+aml.0276-audio.npy|aml.0276-mel.npy|aml.0276-linear.npy|81000|270|제프린트 제프린트 그다음에 얀 루크 |aml.0276.npz
+aml.0387-audio.npy|aml.0387-mel.npy|aml.0387-linear.npy|155400|518|리그레션 모델을 클레시피케이션 모델처럼 쓸수 있게 만들어 주는게 요론 시그모이드 뻥션이|aml.0387.npz
+aml.0060-audio.npy|aml.0060-mel.npy|aml.0060-linear.npy|143100|477|원하는 샘플에 대한 출력 값을 기계가 측정 할 수 있도록 하는것|aml.0060.npz
+aml.0095-audio.npy|aml.0095-mel.npy|aml.0095-linear.npy|147600|492|어 그이 알고리즘 방법이 이렇게 되있는 거에다 요렇게 의존적이다|aml.0095.npz
+aml.0856-audio.npy|aml.0856-mel.npy|aml.0856-linear.npy|240300|801|이렇게 누르시면 밑에 처럼 헬프 페이지가 떠요 그래서 이  뻥션이 어떻게 정의됐고 알들에 알프론트가 누구고 어 이그잼플들이 뭐|aml.0856.npz
+aml.0110-audio.npy|aml.0110-mel.npy|aml.0110-linear.npy|114000|380|유지 하는게 바이어스 하나 없앤 이상한 모델 보다는 훨씬 낮죠|aml.0110.npz
+aml.0221-audio.npy|aml.0221-mel.npy|aml.0221-linear.npy|90900|303|그러면 우리 디시전 바운더리는 어떻게 구해야 좋을까요|aml.0221.npz
+aml.0291-audio.npy|aml.0291-mel.npy|aml.0291-linear.npy|87300|291|어쨌든 연산은 되게 간단해요 컨볼루션 어 뉴럴 네트워크|aml.0291.npz
+aml.0185-audio.npy|aml.0185-mel.npy|aml.0185-linear.npy|286200|954|여기에 답이 있죠 여기 그래서 답을 쓰시고 뭐 계산과정이 없는 분이나 계산을 만드시려고 했는데 잘 안된 분들은 틀렸다고 했습니다.|aml.0185.npz
+aml.0915-audio.npy|aml.0915-mel.npy|aml.0915-linear.npy|234600|782|엑스와이랑 먼저 더하고 더한다음에 그걸 큐랑 만들고 큐랑 제트랑 곱한다음에 마지막 에프를 나오게 하는 겁니다 이렇게 이건 다 그리실 수 있죠|aml.0915.npz
+aml.0184-audio.npy|aml.0184-mel.npy|aml.0184-linear.npy|199800|666|어 마진 계산하시오 해서 계산과정이 필요하다고 했거든요 계산과정이 이상하면 틀렸다고 했어요 왠만하면|aml.0184.npz
+aml.0209-audio.npy|aml.0209-mel.npy|aml.0209-linear.npy|177300|591|요부분만 쓰시면 되는데 애를 어떻게 구하냐 했을때 뭐 힌지로 쓰시거나 뭐 이래도 다 상관 없습니다 그거 다 맞다고 드렸구요|aml.0209.npz
+aml.0492-audio.npy|aml.0492-mel.npy|aml.0492-linear.npy|83100|277|뭐든지 들어온게 음수면은 가능하지 않아요 밖으로 내보내지 않아|aml.0492.npz
+aml.0271-audio.npy|aml.0271-mel.npy|aml.0271-linear.npy|90300|301|거기에 가면 거의 다 이런거 보실꺼에요 다 컨볼루션 |aml.0271.npz
+aml.0134-audio.npy|aml.0134-mel.npy|aml.0134-linear.npy|252600|842|이게 아까 했던 얘기와 같은 얘기죠 레귤러라이제이션이 너무 쎄면 원래 우리가 줄이고자 하는 리스트스퀘어나 이런걸 줄이지 못하고 언더 피팅 된다.|aml.0134.npz
+aml.0174-audio.npy|aml.0174-mel.npy|aml.0174-linear.npy|110400|368|에이치 쓰리가 제일 좋죠 마진이 제일크니까 마진이 제일 크니까|aml.0174.npz
+aml.0132-audio.npy|aml.0132-mel.npy|aml.0132-linear.npy|106800|356|피처만 엄청 많으면 오버피팅 될 수 있어요 그리고 샘플이 작고 그러면|aml.0132.npz
+aml.0471-audio.npy|aml.0471-mel.npy|aml.0471-linear.npy|265500|885|로지스틱 리그뤠션이라는 모델을 세우게 되는 모델을 로지스틱 리그뤠션이 사실은 한 개밖에 없는 뉴런 한 개밖에 없는 뉴런 하나와 같은 아티삐셜 뉴런 네트워크와 같다 요거를 기억하시면|aml.0471.npz
+aml.0082-audio.npy|aml.0082-mel.npy|aml.0082-linear.npy|90900|303|좋은 일이겠죠 허허허|aml.0082.npz
+aml.0077-audio.npy|aml.0077-mel.npy|aml.0077-linear.npy|180000|600|반복해서 하고 뭐 이렇게 하는데 자동화 하는거 기계학습 모델을 학습시키는걸 학습하는거 이걸 오토 엠엘|aml.0077.npz
+aml.0120-audio.npy|aml.0120-mel.npy|aml.0120-linear.npy|105300|351|바이어스를 늘릴까요 줄일까요 베리언스를 늘릴까요 줄일까요 베리언스를|aml.0120.npz
+aml.0188-audio.npy|aml.0188-mel.npy|aml.0188-linear.npy|100500|335|일단 소프트 마진의 개념을 많이 헷갈려 했던 분들이 많아요|aml.0188.npz
+aml.0112-audio.npy|aml.0112-mel.npy|aml.0112-linear.npy|214200|714|그걸 좀더 무시고 진짜 언더라인 패턴을 많이 찾을 수 있도록 노이즈를 제거 할 수 있는 패턴을 배우는 게 맞습니다. 그래서 이건 폴스가 맞고요|aml.0112.npz
+aml.0861-audio.npy|aml.0861-mel.npy|aml.0861-linear.npy|98700|329|제가 예제가 엠니스틴지 씻밤인지 지금 기억이 잘 안나네요|aml.0861.npz
+aml.0233-audio.npy|aml.0233-mel.npy|aml.0233-linear.npy|177000|590|요게 이제 다릅니다 그래서 시험을 이렇게 제가 답을 다 설명 드렸고 시험 끝나자마자 인제|aml.0233.npz
+aml.0064-audio.npy|aml.0064-mel.npy|aml.0064-linear.npy|131400|438|데이타가 순차적으로 들어올때 시퀀셜리 들어올때 배치러닝과 대비 되는 개념|aml.0064.npz
+aml.0474-audio.npy|aml.0474-mel.npy|aml.0474-linear.npy|188400|628|우리가 딥 뉴럴 네트웍이라고 하는데 그러며는 레이어가 엄청 많은 뉴럴 네트웍을 만들고 싶어하거든요 근데 시그모이드 쀙션을 쓰면|aml.0474.npz
+aml.0306-audio.npy|aml.0306-mel.npy|aml.0306-linear.npy|125100|417|데이터 사이즈가 커지잖아요 그래서 그 다루리가 좀 어려우니까 서비 샘플링을 합니다|aml.0306.npz
+aml.0409-audio.npy|aml.0409-mel.npy|aml.0409-linear.npy|185100|617|자극이 일정 이상이 되야지만 반응 하자나여 그거처럼 요기있는 똥그란 애도 그 역치를 넘으면 반응을 함니다|aml.0409.npz
+aml.0073-audio.npy|aml.0073-mel.npy|aml.0073-linear.npy|121800|406|한도메인에서 다른 도메인 가서 공부하는거죠 적용 하는거죠 그래서|aml.0073.npz
+aml.0253-audio.npy|aml.0253-mel.npy|aml.0253-linear.npy|139200|464|수식 같은거 앞에 원래 다 쓰시길 기대했는데 많이 못쓰셔서 쓰신 분들은 그냥 쁘러스로 몇점|aml.0253.npz
+aml.0063-audio.npy|aml.0063-mel.npy|aml.0063-linear.npy|103200|344|그 익스페럴먼드 디자인이라고 하는것도 통계에서 많이 쓰거든요|aml.0063.npz
+aml.0399-audio.npy|aml.0399-mel.npy|aml.0399-linear.npy|243900|813|보통 요 그림이 엄 어 엄는데 뉴런같은거 뇌에 있는 뉴런같은게 어떠케 생겼나면 제가 그 이름들은 다 이져버렸는데|aml.0399.npz
+aml.0267-audio.npy|aml.0267-mel.npy|aml.0267-linear.npy|207000|690|씨엔엔을 얘기 하는데 이미지를 들어오며는 얘가 어떤 이미지인지를 분류 하는거에 집중 해서 하는 알고리즘|aml.0267.npz
+aml.0098-audio.npy|aml.0098-mel.npy|aml.0098-linear.npy|75300|251|그건 제가 배울때 이런걸 배웠었어|aml.0098.npz
+aml.0085-audio.npy|aml.0085-mel.npy|aml.0085-linear.npy|123300|411|요것도 뭐 다양하게 쓰셨어요 그런데 왠만하면 다 맞다고 했던것 같아요|aml.0085.npz
+aml.0322-audio.npy|aml.0322-mel.npy|aml.0322-linear.npy|90900|303|다 양수의 값으로 만들어내면 확률값이 나오죠 그걸 나오게 해서|aml.0322.npz
+aml.0105-audio.npy|aml.0105-mel.npy|aml.0105-linear.npy|99900|333|요건좀 철학적인 문제고 어렵진 않지만 아셨으면 좋겠어요.|aml.0105.npz
+aml.0415-audio.npy|aml.0415-mel.npy|aml.0415-linear.npy|266700|889|그리고 어떤 애는 연결강도가 크니까 중요하고 어떤애들은 연결강도가 적으니까 무시되고 이런 애들이 있으쑤 이짜나요 이런 연결강도를 흉내내기 위해서 여기다 웨잇을 |aml.0415.npz
+aml.0873-audio.npy|aml.0873-mel.npy|aml.0873-linear.npy|220800|736|백프로 뭐 이렇게 정확도가 아주 높게 안나올 수 있어요 그러면 몇가지만 바꾸시면 여러분들이 정확도가 구십프로 넘게 뭐 구십프로 나오게 만드실수|aml.0873.npz
+aml.0283-audio.npy|aml.0283-mel.npy|aml.0283-linear.npy|107400|358|네이처였나 네이처였는지 싸이언스였는지 모르겠어요 거기다 기고 했어요 딥러닝|aml.0283.npz
+aml.0176-audio.npy|aml.0176-mel.npy|aml.0176-linear.npy|79500|265|요기서 요기 까지 마진이 제일 크니까 요게 맞구요|aml.0176.npz
+aml.0808-audio.npy|aml.0808-mel.npy|aml.0808-linear.npy|224100|747|요게 저희 수업시간에 쓸려고 만든 어 깃허브 페이지에요 그래서 지금 어멘스먼트가 있고|aml.0808.npz
+aml.0160-audio.npy|aml.0160-mel.npy|aml.0160-linear.npy|178800|596|헷갈릴수 있어요 헷갈릴수 있어요 요건 우리 슬라이드에도 있는데 어떻게 하면 쉽게 외울 수 있을가요|aml.0160.npz
+aml.0928-audio.npy|aml.0928-mel.npy|aml.0928-linear.npy|123900|413|그럼 이렇게 해서 우리가 뻥션 값이 나왔는데 그러면 이 뻥션값이 우리가 원하는대로|aml.0928.npz
+aml.0453-audio.npy|aml.0453-mel.npy|aml.0453-linear.npy|94500|315|그 시그모이드 뿽션이었던 거죠 요게 인제 이 쎄타를 지우고|aml.0453.npz
+aml.0230-audio.npy|aml.0230-mel.npy|aml.0230-linear.npy|287400|958|그거를 여기다 설명을 해주시면 되요 인벨런스일때 그래서 슬랙 베리어블들이 있으면 슬랙 베리어블들이 있으면 여기서 여기서 디시전 바운드리가 여기 있다고 하고 마진이 있다고 하면|aml.0230.npz
+aml.0791-audio.npy|aml.0791-mel.npy|aml.0791-linear.npy|86700|289|근데 어쨌든 이러다가도 중간에 빠져버리면 대책이 없으니까 요렇게|aml.0791.npz
+aml.0911-audio.npy|aml.0911-mel.npy|aml.0911-linear.npy|141300|471|그래프로 변환할 수 있는 그러면 이 계산 그래프에서 꺼꿀로 쫓아가면은 그래디언트|aml.0911.npz
+aml.0938-audio.npy|aml.0938-mel.npy|aml.0938-linear.npy|289800|966|에프는 큐 제트 이렇게 써있으면 이거를 큐로 미분을 하면 제트가 되죠 제트로 미분하면 큐가되죠 그러면 재밌게도 이게 그래디언트를 바꿔줍니다|aml.0938.npz
+aml.0381-audio.npy|aml.0381-mel.npy|aml.0381-linear.npy|132300|441|우리가 어떤 예측을 했을때 일일 확률 값으로 |aml.0381.npz
+aml.0551-audio.npy|aml.0551-mel.npy|aml.0551-linear.npy|179700|599|보통 제일 많이 하는 포이그잼플이 클래스가 열개밖에 없어요 그래서 여기 이그잼플이 십으로 되있는거예여|aml.0551.npz
+aml.0307-audio.npy|aml.0307-mel.npy|aml.0307-linear.npy|126600|422|두개중에 한개만 선택을 하는거죠 그런식으로 선택을 하면 원래보다 사분의 일로 줄어들죠|aml.0307.npz
+aml.0115-audio.npy|aml.0115-mel.npy|aml.0115-linear.npy|84000|280|그다음에 모델의 복잡도가 낮을 수록 바이어스가 크다|aml.0115.npz
+aml.0222-audio.npy|aml.0222-mel.npy|aml.0222-linear.npy|75300|251|한 어 이게 이렇게 하면 안되겠다 조금 더 더 그려야 |aml.0222.npz
+aml.0923-audio.npy|aml.0923-mel.npy|aml.0923-linear.npy|96900|323|그래서 요게 뉴럴 네트워크에서 인풋이 들어와서 아웃풋이 나오는|aml.0923.npz
+aml.0089-audio.npy|aml.0089-mel.npy|aml.0089-linear.npy|226800|756|나이브 베이즈 문제과 이렇게 되면은 나이브 베이즈 이게 하나의 엔그램이에요 두개로 된거 그리고|aml.0089.npz
+aml.0562-audio.npy|aml.0562-mel.npy|aml.0562-linear.npy|204300|681|이케 떠블유원이 이만큼의 숫자가 있고 떠블유투는 백곱하기 십만큼 있으니까 이만큼의 웨잇을|aml.0562.npz
+aml.0430-audio.npy|aml.0430-mel.npy|aml.0430-linear.npy|117600|392|어떤 쎄타라는 역치보다 높 높기 전에는|aml.0430.npz
+aml.0510-audio.npy|aml.0510-mel.npy|aml.0510-linear.npy|71700|239|이게 그 옵티마이제이션 띠어리에 좀 있는게 그|aml.0510.npz
+aml.0216-audio.npy|aml.0216-mel.npy|aml.0216-linear.npy|71100|237|그냥 추상적으로 좀 드리면 설명을 드리면|aml.0216.npz
+aml.0936-audio.npy|aml.0936-mel.npy|aml.0936-linear.npy|148500|495|어쨌든 어떤 더하기 뻥션에서의 로칼 그래디언트는 지역적인 그래디언트는 다 일입니다|aml.0936.npz
+aml.0151-audio.npy|aml.0151-mel.npy|aml.0151-linear.npy|129000|430|그러면 트루 파저티브랑 폴스 파저티브 중에서 트루 파저티브를|aml.0151.npz
+aml.0080-audio.npy|aml.0080-mel.npy|aml.0080-linear.npy|80400|268|지금 우리들이 기계 학습 공부를 되게|aml.0080.npz
+aml.0330-audio.npy|aml.0330-mel.npy|aml.0330-linear.npy|232500|775|새다 이런걸 구분하는걸 요번 수업시간에 하시면 이제 끝일꺼에요 이제 거기까지 가는데 여러가지로 많이 아셔야 되요 이미 아시는 분들은 뭐|aml.0330.npz
+aml.0239-audio.npy|aml.0239-mel.npy|aml.0239-linear.npy|214800|716|이게 시험지를 공개하며는 매년 어려워 지더라구요 시험문제가 그래서 네 그거는 공개하지 않을 생각 입니다 혹시 질문 있으시면 질문 해주시면|aml.0239.npz
+aml.0412-audio.npy|aml.0412-mel.npy|aml.0412-linear.npy|137400|458|뉴럴 네트웍인데 어 아트쀠셜 뉴럴 네트웍크 이러케 얘기를 하거든요 에이앤앤 아트쀠셜 뉴럴 네트워크|aml.0412.npz
+aml.0081-audio.npy|aml.0081-mel.npy|aml.0081-linear.npy|181200|604|머리를 싸메고 공부를 하잖아요 밤에 와서 그런데 이런것도 필요 없다는거죠 오토 엠엘이 있다면 그냥 알아서 다 찾아서 돌려 준다는|aml.0081.npz
+aml.0366-audio.npy|aml.0366-mel.npy|aml.0366-linear.npy|85500|285|그래서 엑스가 엄청 커지면 이쪽으로 가면 갈수록|aml.0366.npz
+aml.0326-audio.npy|aml.0326-mel.npy|aml.0326-linear.npy|116700|389|큰 숫자가 나오고 십번 클래스면 맨 위에 숫자가 크게 나오게 한|aml.0326.npz
+aml.0214-audio.npy|aml.0214-mel.npy|aml.0214-linear.npy|159300|531|틀리면 어떤 샘플은 틀렸다고 어떤 샘플은 틀리면 많이 패널티를 받고 이 오른쪽 텀으로 이용해서 정의할수 있습|aml.0214.npz
+aml.0888-audio.npy|aml.0888-mel.npy|aml.0888-linear.npy|138600|462|그러면 그래디언트를 어떻게 구하냐 아까 그 이상한 캐릭에 뻥션에 그래디언트를 어떻게 구하냐 했을때|aml.0888.npz
+aml.0850-audio.npy|aml.0850-mel.npy|aml.0850-linear.npy|117900|393|가속을 하드웨어 가속을 쥐피유를 선택하시면 됩니다 쥐피유도 돌리실수|aml.0850.npz
+aml.0338-audio.npy|aml.0338-mel.npy|aml.0338-linear.npy|182400|608|이렇게 이렇게 하면 리니어 리그리션이잖아요 근데 거기에다가 시그모이드라는 뻥션을 이렇게 씌우면 로지스틱 리그레션이|aml.0338.npz
+aml.0248-audio.npy|aml.0248-mel.npy|aml.0248-linear.npy|149700|499|그래요 왜 그렇게 됬지 아 보너스 점수를 준거는 감안해서 달았었나|aml.0248.npz
+aml.0210-audio.npy|aml.0210-mel.npy|aml.0210-linear.npy|180000|600|그다음 인벨런스 데이터가 주어 졌을때 에스브엠에서 어떻게 해결 할수 있는지 서술하시오 사실 요거를 하기위해서 요 앞문제를 내게 했던거예요|aml.0210.npz
+aml.0138-audio.npy|aml.0138-mel.npy|aml.0138-linear.npy|108300|361|폴스 파지티브는 우리가 파지티브라고 예측한거 중에서 틀린거|aml.0138.npz
+aml.0096-audio.npy|aml.0096-mel.npy|aml.0096-linear.npy|142800|476|조금더 그래프를 추가해서 으존적인걸 추가해서 배우는 방법도 있습니다|aml.0096.npz
+aml.0318-audio.npy|aml.0318-mel.npy|aml.0318-linear.npy|105300|351|커 어 풀리 커넥티드 레이어라고 해서 대수 레이어로 막 엮어서|aml.0318.npz
+aml.0858-audio.npy|aml.0858-mel.npy|aml.0858-linear.npy|86700|289|실제 이미지 자동차 배 뭐 여러가지들이 있는데 요것도|aml.0858.npz
+aml.0187-audio.npy|aml.0187-mel.npy|aml.0187-linear.npy|107400|358|어 여기 이부분 두문제 마지막에 많이 어려웠던것 같아요|aml.0187.npz
+aml.0091-audio.npy|aml.0091-mel.npy|aml.0091-linear.npy|240000|800|단어만 가지고 분류 하는거 보다 묶어서 하니까 그런 의존성 순서나 이런게 반영될 수 있죠 그래서 엔그램을 이용하는것도 있다 하셨는데 그래서 맞다고 했고요.|aml.0091.npz
+aml.0035-audio.npy|aml.0035-mel.npy|aml.0035-linear.npy|84000|280|수업 시작 시간이 없으까 그러면|aml.0035.npz
+aml.0142-audio.npy|aml.0142-mel.npy|aml.0142-linear.npy|185400|618|위가 예측이고 여기가 그라운드 트루스니까 그다음 폴스 네거티브는 네거티브라고 예측한거 중에 틀린거니까|aml.0142.npz
+aml.0354-audio.npy|aml.0354-mel.npy|aml.0354-linear.npy|124800|416|이 엑스가 엄청 일단 엑스가 영이며는 어떻게 되죠|aml.0354.npz
+aml.0959-audio.npy|aml.0959-mel.npy|aml.0959-linear.npy|278700|929|인풋이 큐제튼데 어 제트로 미분하면 큐가 되잖아요 긍까 인풋을 바꿔주면 돼요 일이 내려오고 여기서 지금 반대쪽은 마이너스 사니까 여기에 로컬그래디언트가|aml.0959.npz
+aml.0135-audio.npy|aml.0135-mel.npy|aml.0135-linear.npy|149700|499|다음 학습 모델 내에서 파라메터가 적고 모델이 단순하면 언더 피팅이 발생한다 맞죠|aml.0135.npz
+aml.0929-audio.npy|aml.0929-mel.npy|aml.0929-linear.npy|195000|650|만들고 싶구요 어느방향으로 가야지 어디가 그래디언트냐 라고 계산했을 때는 이렇게 갔으니까 꺼꿀로 내려가면 돼요 꺼꿀로 내려가면|aml.0929.npz
+aml.0334-audio.npy|aml.0334-mel.npy|aml.0334-linear.npy|217200|724|어 이거 하는 지금 아주 간단한 뉴럴 네트웍 모양은 로지스틱 리그리션 모양이랑 거의 같애요 저희가 로지스틱 리그리션 했나요|aml.0334.npz
+aml.0819-audio.npy|aml.0819-mel.npy|aml.0819-linear.npy|79800|266|간단하게 그리고 쥐피엘도 쓰실 수 있습니다 거기에|aml.0819.npz
+aml.0561-audio.npy|aml.0561-mel.npy|aml.0561-linear.npy|95400|318|근데 생각보다 이렇게 단순한데도 모델자체에 파라미터 개수 |aml.0561.npz
+aml.0148-audio.npy|aml.0148-mel.npy|aml.0148-linear.npy|75900|253|파저티브라고 예측한것들 중에서|aml.0148.npz
+aml.0508-audio.npy|aml.0508-mel.npy|aml.0508-linear.npy|112800|376|여기서 영이죠 이점에서는 어떤값을 구하면 될까요 어떤 값을 그래디언트로 쓰|aml.0508.npz
+aml.0353-audio.npy|aml.0353-mel.npy|aml.0353-linear.npy|83100|277|애가 어떻게 생겼는지 그려보시면 금방 이해가 될꺼|aml.0353.npz
+aml.0541-audio.npy|aml.0541-mel.npy|aml.0541-linear.npy|83100|277|그쳐 삼천칠십이 곱하기 백이되야 되겠져 그죠|aml.0541.npz
+aml.0935-audio.npy|aml.0935-mel.npy|aml.0935-linear.npy|261900|873|와이에 대해서 미분하면 일이죠 그래서 더하기 연산일 때는 그래디언트가 변하지 않아요 그냥 전파만 해주면 돼요 요 의미는 다시 이따가 말씀드 |aml.0935.npz
+aml.0329-audio.npy|aml.0329-mel.npy|aml.0329-linear.npy|81600|272|어떤 이미지가 들어왔을때 이게 자동차다 배다 아니면 뭐 |aml.0329.npz
+aml.0495-audio.npy|aml.0495-mel.npy|aml.0495-linear.npy|82800|276|그 렉터뽜이 리니어그니 그래서|aml.0495.npz
+aml.0887-audio.npy|aml.0887-mel.npy|aml.0887-linear.npy|96900|323|근데 기본적으로는 그래디언트가 있어야지 옵티마이제이션을 할 수 있습니다. 뉴럴 네트웍|aml.0887.npz
+aml.0211-audio.npy|aml.0211-mel.npy|aml.0211-linear.npy|137100|457|써포트벡터 머신에서 인제 어 보통 우리가 갖고 있는 로쓰 뻥션은 얘밖에 없잖아요|aml.0211.npz
+aml.0320-audio.npy|aml.0320-mel.npy|aml.0320-linear.npy|208800|696|클래시피케이션이 됩니다 맨 마지막에는 우리가 클래스가 열개면 열개의 숫자만 내밷도록 만들면 확률값으로 그래서 요 확률 값이|aml.0320.npz
+aml.0411-audio.npy|aml.0411-mel.npy|aml.0411-linear.npy|195600|652|이쪼그로 신호를 쏩니다 신호를 쏩니다 요거를 수학쩍으로 흉내내기 위해서 사람들이 만든게|aml.0411.npz
+aml.0479-audio.npy|aml.0479-mel.npy|aml.0479-linear.npy|128100|427|그래서 시그모이드 뿽션 대신에 많이 쓰는 함수가 뷀뉴라고 하는 뿽션이|aml.0479.npz
+aml.0252-audio.npy|aml.0252-mel.npy|aml.0252-linear.npy|115200|384|그쪄 근데 뭐 여기저기 쁘러스 점수를 받으신 분들이 있으신것 같애요|aml.0252.npz
+aml.0834-audio.npy|aml.0834-mel.npy|aml.0834-linear.npy|210600|702|아 그것보다 더 편한 방법은 요기 지금 깃허브 있는 요 유알엘 가신 다음에요 텃 펜치를 누르고|aml.0834.npz
+aml.0478-audio.npy|aml.0478-mel.npy|aml.0478-linear.npy|241500|805|고거는 지금 말고 빽 프로풜게이션 할때 다시 설명을 할게요 어째뜬 그래디언트 에니씽 프러블럼이란 문제가 생겨서 뉴럴 네트웍을 옵티마이션을 잘 못하게 되는|aml.0478.npz
+aml.0500-audio.npy|aml.0500-mel.npy|aml.0500-linear.npy|138900|463|안되죠 근데 또 되기도 하죠 한점빼곤 다 미분이 되죠 한점빼고|aml.0500.npz
+aml.0417-audio.npy|aml.0417-mel.npy|aml.0417-linear.npy|130200|434|그다음에 얘네들을 합쳐야되져 그러니깐 웨이티드 썸을 합니다|aml.0417.npz
+aml.0847-audio.npy|aml.0847-mel.npy|aml.0847-linear.npy|70200|234|그 담에 쥐피로 쓰고 싶으시다 그러면|aml.0847.npz
+aml.0839-audio.npy|aml.0839-mel.npy|aml.0839-linear.npy|216300|721|요렇게 눌르시면 여기 이런 노트북이 떠요 주피터 노트북이란 페이지가 뜹니다 지금 요 웹페이지로 따라가시면 그러면|aml.0839.npz
+aml.0031-audio.npy|aml.0031-mel.npy|aml.0031-linear.npy|179400|598|딴 수업시간에는 나눠주고 거둬 가거든요|aml.0031.npz
+aml.0388-audio.npy|aml.0388-mel.npy|aml.0388-linear.npy|214800|716|요롷게 생긴 뿽션들은 대게 다양하게 있는데 그중에 하나가 시그모이드고 이걸 이용해서 맨 처음에 뉴럴 네트웍을 제안을 해씁니다|aml.0388.npz
+aml.0266-audio.npy|aml.0266-mel.npy|aml.0266-linear.npy|139200|464|왼쪽 위에있는 요게 대표적인 컨볼루션 뉴럴네트웍 이예요 컨볼루셔널 뉴럴네트웍 |aml.0266.npz
+aml.0511-audio.npy|aml.0511-mel.npy|aml.0511-linear.npy|135600|452|그래서 그거를 써브 그래디언트라고 하는데 아 지금 뭐 아실 필요는 없을거 같은데 나와서 |aml.0511.npz
+aml.0423-audio.npy|aml.0423-mel.npy|aml.0423-linear.npy|145800|486|어떤 쎄타보다 작거나 같으면 신호를 안보내는|aml.0423.npz
+aml.0408-audio.npy|aml.0408-mel.npy|aml.0408-linear.npy|73500|245|그 생물시간에 그 런거 배워쪄 역치|aml.0408.npz
+aml.0820-audio.npy|aml.0820-mel.npy|aml.0820-linear.npy|141000|470|다 공짜로 열두시간까지 공짜에요 열두시간 지나면 다 지워져요 열두시간 뒤에 다시 돌리면 돼요|aml.0820.npz
+aml.0467-audio.npy|aml.0467-mel.npy|aml.0467-linear.npy|161700|539|그냥 뉴런이라고 했던거 같아요 특별한 이름이 없었던거 같아요 시그모이드 담부턴 그냥 다 뉴런이라고 불렀던거 같아요|aml.0467.npz
+aml.0303-audio.npy|aml.0303-mel.npy|aml.0303-linear.npy|111300|371|그다음에 이렇게 만들면 채널이 원래 이미지보다 더|aml.0303.npz
+aml.0359-audio.npy|aml.0359-mel.npy|aml.0359-linear.npy|70800|236|일이죠 그러면 저 숫자가 이분의 일이 되죠|aml.0359.npz
+aml.0227-audio.npy|aml.0227-mel.npy|aml.0227-linear.npy|102900|343|그렇다는 얘기는 한쪽 클래스가 너무많이 분포되 있으면 |aml.0227.npz
+aml.0029-audio.npy|aml.0029-mel.npy|aml.0029-linear.npy|207600|692|나눠 드리지 말까요 그럼 저는 더 좋죠 그럼 풀이만 하겠습니다 |aml.0029.npz
+aml.0234-audio.npy|aml.0234-mel.npy|aml.0234-linear.npy|118800|396|쫌 답 궁굼해 하시는 분들도 많이 있고 그래서 설명을 드렸습니다 어|aml.0234.npz
+aml.0137-audio.npy|aml.0137-mel.npy|aml.0137-linear.npy|90900|303|트루 파지티브는 여기서 몇번이죠 이건 정말 쉽죠 일번|aml.0137.npz
+aml.0795-audio.npy|aml.0795-mel.npy|aml.0795-linear.npy|83100|277|애프로포게이션을 하면은 인제 요거를 어떻게 최적화할 수 있는지|aml.0795.npz
+aml.0343-audio.npy|aml.0343-mel.npy|aml.0343-linear.npy|150300|501|우리가 만약에 바이너리 클래시피케이션을 한다 그러면 우리 아웃풋 값이 뭐가 되길 기대하세요|aml.0343.npz
+aml.0331-audio.npy|aml.0331-mel.npy|aml.0331-linear.npy|72000|240|중간중간에 몰랐던 새로운 것이 있을텐데 그걸 좀|aml.0331.npz
+aml.0553-audio.npy|aml.0553-mel.npy|aml.0553-linear.npy|103500|345|근데 영부터 구까지 손으로 쓴 글씨 구분하는 문제가 있는데|aml.0553.npz
+aml.0485-audio.npy|aml.0485-mel.npy|aml.0485-linear.npy|77400|258|요 그림은 어떻게 생겼는지 금방|aml.0485.npz
+aml.0468-audio.npy|aml.0468-mel.npy|aml.0468-linear.npy|98400|328|어째든 펄셉트론 하면 옛날에 스탭뿽션 쓰던거를 주로 얘기를 했습니다.|aml.0468.npz
+aml.0043-audio.npy|aml.0043-mel.npy|aml.0043-linear.npy|215400|718|오시고 싶으신 분들만 와서 자유롭게 뭐 물어보거나 프로젝트 디스커션 하거나 그런 시간을 갖는 경우가 있는데|aml.0043.npz
+aml.0270-audio.npy|aml.0270-mel.npy|aml.0270-linear.npy|203400|678|지금 한국에서 아씨씨비라고 컴퓨터 비젼 컨퍼런스 되게 큰게 코엑스에서 하고 있어요 인터네셔널 컨퍼런스 바이 컴퓨터 비전 |aml.0270.npz
+aml.0403-audio.npy|aml.0403-mel.npy|aml.0403-linear.npy|81300|271|나간 요기요기 다 이름이 다 이떠라구요 요기 근데 제가 이져바려써요|aml.0403.npz
+aml.0818-audio.npy|aml.0818-mel.npy|aml.0818-linear.npy|226500|755|폴랩이 구글에서 제공하는 꽁짜플랫폼인데요 거기 위에서 파이썬 다 돌리실 수 있고 뉴럴네트웍도 다 돌릴 수 있도록 이미 다 설치가  돼있어요 안에|aml.0818.npz
+aml.0392-audio.npy|aml.0392-mel.npy|aml.0392-linear.npy|206100|687|어 빽프로퍼게이션도 저희가 할껍니다 그래서 궁금하시면 미리 요거 일거보시고 하며는 도움이 많이 될|aml.0392.npz
+aml.0932-audio.npy|aml.0932-mel.npy|aml.0932-linear.npy|151800|506|곱하기랑 더하기에 대해서 미분을 먼저 할 줄 알아야 되겠죠 곱하기랑 더하기에 |aml.0932.npz
+aml.0229-audio.npy|aml.0229-mel.npy|aml.0229-linear.npy|85800|286|되죠 이 숫자가 적은 애들은 틀리면 큰일나죠|aml.0229.npz
+aml.0235-audio.npy|aml.0235-mel.npy|aml.0235-linear.npy|117900|393|시험지는 아까도 제가 나눠 드릴려고 했는데 많은 분들이 거부하셔서 어|aml.0235.npz
+aml.0513-audio.npy|aml.0513-mel.npy|aml.0513-linear.npy|225300|751|고거를 써서 옵티마이제이션 하면 하면 됩니다 뉴럴 네트웍에서 실제로 이런 영같은데 점이 걸리면 둘중에 둘중에 하나 값이나 사이값을 써서 그냥 빽 프로퍼게이션 하면|aml.0513.npz
+aml.0435-audio.npy|aml.0435-mel.npy|aml.0435-linear.npy|89400|298|요러케 일을 내보내는 요런 스텝뿽션을 정의할수|aml.0435.npz
+aml.0503-audio.npy|aml.0503-mel.npy|aml.0503-linear.npy|100500|335|그레디언트는 미분값이잖아요 근데 그래디언트 비슷한애들이 있|aml.0503.npz
+aml.0546-audio.npy|aml.0546-mel.npy|aml.0546-linear.npy|106500|355|영 그 다음에 나온값 자 음수값은 다버리는거죠 양수값만 취하려|aml.0546.npz
+aml.0947-audio.npy|aml.0947-mel.npy|aml.0947-linear.npy|217800|726|이 그래디언트를 로컬 그래디언트라고 하고 실제로 맨 밑에까지 그래디언트를 내려올라면 순차적으로 꺼꿀로 내려와야돼요  그래서 체일룰을 적용해야됩니다 체인룰을|aml.0947.npz
+aml.0277-audio.npy|aml.0277-mel.npy|aml.0277-linear.npy|236700|789|그다음 요슈아 벤지오 앤드류 모 이런 사람이 있는데 첨에 얘기 했던 세명이 트리 어워드를 받았어요  그러니까 컴퓨터에서 있을때 |aml.0277.npz
+aml.0933-audio.npy|aml.0933-mel.npy|aml.0933-linear.npy|230400|768|일단 더하기 연산이 있죠 큐는 엑스 플러스 와이 이렇게 돼 있으면 엑스에 대해서 미분을 하면 어떻게 되죠 지금 요기 빨간색 식은 엑스에 대해서 미분|aml.0933.npz
+aml.0347-audio.npy|aml.0347-mel.npy|aml.0347-linear.npy|294300|981|원래는 리니어 리그리션을 하면 마이너스 무한대서부터 쁘러스 무한까지 막 나오잖아요 그거를 이렇게 찌그러 트려서 영과 일 사이로 바꿔주고 싶은 거예요 그거를 해주는게 |aml.0347.npz
+aml.0419-audio.npy|aml.0419-mel.npy|aml.0419-linear.npy|103800|346|이러케 각 인풋들을 웨잇과 함께 초록색이|aml.0419.npz
+aml.0983-audio.npy|aml.0983-mel.npy|aml.0983-linear.npy|234000|780|이메일 받았는데 답장 못드렸어요 제가 드릴라고 예예 네네 시간이 없어서 못드렸는데 네네 뭐 아니면 뭐|aml.0983.npz
+aml.0922-audio.npy|aml.0922-mel.npy|aml.0922-linear.npy|82500|275|그면 삼곱하기 마이너스 사는 십이니까 요|aml.0922.npz
+aml.0569-audio.npy|aml.0569-mel.npy|aml.0569-linear.npy|104100|347|그래서 아까 손글씨 한 데이타샛도|aml.0569.npz
+aml.0406-audio.npy|aml.0406-mel.npy|aml.0406-linear.npy|171300|571|그 담에 여기에 어떤거는 뉴런이 좀 강하게 연결되이꼬 어떤거는 약하게 연결있|aml.0406.npz
+aml.0477-audio.npy|aml.0477-mel.npy|aml.0477-linear.npy|117900|393|그게 그 그래디언트 에니씽 프러블럼 이라고 하는 문제가 있는데|aml.0477.npz
+aml.0158-audio.npy|aml.0158-mel.npy|aml.0158-linear.npy|131100|437|근데 폴스 파저티브 레잇은 많이 틀리셨어요 요건 많이 헷갈리고|aml.0158.npz
+aml.0236-audio.npy|aml.0236-mel.npy|aml.0236-linear.npy|118500|395|궁금하신 분들만 저한테 나중에 수업 끝나거나 오셔서 확인 하시면 될꺼 같|aml.0236.npz
+aml.0962-audio.npy|aml.0962-mel.npy|aml.0962-linear.npy|75600|252|그다음 제가 끝까지 한번 하고 다음시간에 다시할게요|aml.0962.npz
+aml.0136-audio.npy|aml.0136-mel.npy|aml.0136-linear.npy|184200|614|요 클래시픽 케이션 요거 우리 수업할때 슬라이드에 있었던 건데 생각보다 틀리신 분들이 많아요|aml.0136.npz
+aml.0313-audio.npy|aml.0313-mel.npy|aml.0313-linear.npy|81600|272|요걸 반복해서 만들고 나면 이렇게 엄청나게 많|aml.0313.npz
+aml.0206-audio.npy|aml.0206-mel.npy|aml.0206-linear.npy|91200|304|애네들의 합만 추가 하면 되요 애네들만 다 합쳐서  이렇게 쓰면 되요|aml.0206.npz
+aml.0955-audio.npy|aml.0955-mel.npy|aml.0955-linear.npy|145500|485|이런식으로 계산을 하는 거는 꺼꿀로 와서 꺼꿀로와서 계산을 하면 돼요|aml.0955.npz
+aml.0530-audio.npy|aml.0530-mel.npy|aml.0530-linear.npy|92100|307|리니어 뿽션 우리가 떠블유의 디맨젼에 따라서|aml.0530.npz
+aml.0542-audio.npy|aml.0542-mel.npy|aml.0542-linear.npy|74700|249|아이아니지 백곱하기 삼천칠씹이가 되야 되겠죠|aml.0542.npz
+aml.0903-audio.npy|aml.0903-mel.npy|aml.0903-linear.npy|92700|309|뭐 떠블유가 너무 커지지 않길 원한다면 떠블유에 대한|aml.0903.npz
+aml.0914-audio.npy|aml.0914-mel.npy|aml.0914-linear.npy|186900|623|수식이 있습니다 엑스 더하기 와이 그 다음에 곱하기 제트 그러면 그거는 오른쪽과 같은 컴퓨테이션 그래프를 변환할 수 있습|aml.0914.npz
+aml.0108-audio.npy|aml.0108-mel.npy|aml.0108-linear.npy|250800|836|오 폴스가 맞습니다. 그죠 이게 우리가 데이터가 이렇게 있는데 리그레션 문젠데 막 이렇게 리니어 문젠데 노이즈가 많아요|aml.0108.npz
+aml.0917-audio.npy|aml.0917-mel.npy|aml.0917-linear.npy|107400|358|미분은 손으로 할 수 있잖아요 그데 이거를 그래프 위에서 미분을 할겁니다|aml.0917.npz
+aml.0427-audio.npy|aml.0427-mel.npy|aml.0427-linear.npy|98700|329|들어오는 이 값을 제가 어|aml.0427.npz
+aml.0853-audio.npy|aml.0853-mel.npy|aml.0853-linear.npy|265800|886|이렇게 물음표를 치시면 물음표물음표 하고 뻥션 이름을 이렇게 쓰면되죠 뭐 트랜스폼 컴포즈 뭐 이런 뻥션을 모르겠다 그럼 그걸 치고 그 앞에 물음표 물음표 하고 엔터를 누르시면|aml.0853.npz
+aml.0957-audio.npy|aml.0957-mel.npy|aml.0957-linear.npy|93000|310|인풋을  쿼로 바꿔주면 되죠 인풋이 큐일때는|aml.0957.npz
+aml.0872-audio.npy|aml.0872-mel.npy|aml.0872-linear.npy|146700|489|그리고 예제는 되게 어 잘 안돌아가는 잘 안 그 숫자가|aml.0872.npz
+aml.0407-audio.npy|aml.0407-mel.npy|aml.0407-linear.npy|75300|251|그런걸 이용해서 신호를 처리한담에 |aml.0407.npz
+aml.0264-audio.npy|aml.0264-mel.npy|aml.0264-linear.npy|95700|319|뒤에 잘 들리시니나요 괜찮아요 네 어 여기|aml.0264.npz
+aml.0039-audio.npy|aml.0039-mel.npy|aml.0039-linear.npy|124200|414|보통 그런데 휴강을 하게 되면 보강을 어떻게 하죠 이수업은 보강이 불가능 할것 같은데|aml.0039.npz
+aml.0410-audio.npy|aml.0410-mel.npy|aml.0410-linear.npy|154200|514|반응을 해서 낮게 들어오면 그냥무시하고 이따까 어떤 역치 넘는 신호가 오면 그때 짠 하고 |aml.0410.npz
+aml.0494-audio.npy|aml.0494-mel.npy|aml.0494-linear.npy|138000|460|양수가 되는 순간 그 신호와 똑같은 크기로 밖으로 내보내는게 이 엑티붸이션 뻥션|aml.0494.npz
+aml.0178-audio.npy|aml.0178-mel.npy|aml.0178-linear.npy|69900|233|많은 분들이 이 점을 잘 찾으셨는데|aml.0178.npz
+aml.0852-audio.npy|aml.0852-mel.npy|aml.0852-linear.npy|188100|627|실험을 하시다가 뻥션값이나 이런게 궁금하거나 뭐하는 건지 잘 모르겠다 그러면 여기 스페셜 캐릭터가 있어요|aml.0852.npz
+aml.0845-audio.npy|aml.0845-mel.npy|aml.0845-linear.npy|136800|456|리퍼짓토리에 있는건데 요거 쓰 요 데모 쓰 쓰지 마시고 어 지금|aml.0845.npz
+aml.0111-audio.npy|aml.0111-mel.npy|aml.0111-linear.npy|242700|809|그러니까 옵저베이션에 노이즈가 많다고 생각하면 실제로 그 노이즈는 베리언스가 많은 랜덤 노이즈 이지 진짜 패턴이 아니라서 핏팅을 똑바로 안해도 되요|aml.0111.npz
+aml.0254-audio.npy|aml.0254-mel.npy|aml.0254-linear.npy|121200|404|육십사점 맞으셨어요 너무 해맑게 웃으시길래|aml.0254.npz
+aml.0034-audio.npy|aml.0034-mel.npy|aml.0034-linear.npy|128100|427|말씀해 주시면 제가 보여 드릴께요.|aml.0034.npz
+aml.0304-audio.npy|aml.0304-mel.npy|aml.0304-linear.npy|141600|472|필터가 더 커지죠 원래는 한개짜리 이미지였는데 필터가 열개며는 열장 생기는|aml.0304.npz
+aml.0042-audio.npy|aml.0042-mel.npy|aml.0042-linear.npy|105600|352|다른 수업 같은경우는 학부 수업 같은 경우는 옥상으로 대체 하는 경우가 있거든요|aml.0042.npz
+aml.0028-audio.npy|aml.0028-mel.npy|aml.0028-linear.npy|76800|256|어 오늘 성적 올라간건 보셨나요|aml.0028.npz
+aml.0394-audio.npy|aml.0394-mel.npy|aml.0394-linear.npy|106200|354|저희 수업시간에 하는 마는 그림들이나 슬라이드는 요 수업에서 |aml.0394.npz
+aml.0122-audio.npy|aml.0122-mel.npy|aml.0122-linear.npy|297600|992|어 극단적으로 이 레귤러 라이 제이션의 강도가 엄청 쎄지면 우리의 솔루션은 항상 거의 영에 가까운 더블유만을 찾게 되잖아요 그래서 이건 베리언스|aml.0122.npz
+aml.0231-audio.npy|aml.0231-mel.npy|aml.0231-linear.npy|93000|310|엑스에 대한 슬랙 베리어블들은 패널티를 적게 주고|aml.0231.npz
+aml.0971-audio.npy|aml.0971-mel.npy|aml.0971-linear.npy|144000|480|그래서 요 체인룰을 수식으로 하면 이렇게 되는데 그래프로 따라가는 방법도 이렇게 간단하게 돼요|aml.0971.npz
+aml.0865-audio.npy|aml.0865-mel.npy|aml.0865-linear.npy|78900|263|지금 내 디렉토리 내 소스가 뭐가 있고 위치가 어디가 되고 이런것들 다|aml.0865.npz
+aml.0113-audio.npy|aml.0113-mel.npy|aml.0113-linear.npy|99900|333|그다음에 이거는 수업 시간에도 했고 케이 엔엔에서 케이가|aml.0113.npz
+aml.0251-audio.npy|aml.0251-mel.npy|aml.0251-linear.npy|109800|366|어 오번만 이십점이고 나머지는 십점씩이거든요 그러면 육십점이 맞죠 만점이|aml.0251.npz
+aml.0449-audio.npy|aml.0449-mel.npy|aml.0449-linear.npy|86700|289|뿌니 안되고 최적화를 못합니다 솔루션을 찾을 수  업써요 파라미터|aml.0449.npz
+aml.0195-audio.npy|aml.0195-mel.npy|aml.0195-linear.npy|228900|763|마이너스가 이쪽에 있으면 얘는 넘어가도 되는걸 허용해 주는게 슬렉 베리어블 이잖아요. 슬렉베리어블을 정의 하라고 하면 여기서 부터|aml.0195.npz
+aml.0975-audio.npy|aml.0975-mel.npy|aml.0975-linear.npy|99600|332|다음시간에 한번 다시 같이 연습을 하고 요걸로 퀴즈를 보면 될|aml.0975.npz
+aml.0393-audio.npy|aml.0393-mel.npy|aml.0393-linear.npy|77400|258|빽프로퍼게이션 슬라이드도 스탠포에서 만든게 있구요|aml.0393.npz
+aml.0088-audio.npy|aml.0088-mel.npy|aml.0088-linear.npy|77700|259|엔그램이라고 하는거는 엔엘피에서 나온 건데요|aml.0088.npz
+aml.0275-audio.npy|aml.0275-mel.npy|aml.0275-linear.npy|95400|318|이 딥러닝을 하는데 있어서 이제 유명한 사람들이 있|aml.0275.npz
+aml.0183-audio.npy|aml.0183-mel.npy|aml.0183-linear.npy|76500|255|다양한 오답이 있었는데 요기 세점이 맞습니다. 서포트 벡터는|aml.0183.npz
+aml.0875-audio.npy|aml.0875-mel.npy|aml.0875-linear.npy|109500|365|뉴럴네트웍은 그게 뉴럴네트웍 그 구할 때 가장 재밌는|aml.0875.npz
+aml.0232-audio.npy|aml.0232-mel.npy|aml.0232-linear.npy|123600|412|요 마이너스에 대한 슬랙 베리어블들은 패널티를 크게 준다라고 하고 써주시며는 정답이 됩니|aml.0232.npz
+aml.0470-audio.npy|aml.0470-mel.npy|aml.0470-linear.npy|156000|520|이 씨그마 에 쓰탭뻥션 대신에 시그모이드를 쓰는 순간 우리가 통계학 시간에 배우는|aml.0470.npz
+aml.0383-audio.npy|aml.0383-mel.npy|aml.0383-linear.npy|276300|921|어 이 어떤 클래시피케이션을 했어요 근데 그 샘플이 들어왔을때 이게 양일지 그러니까  파지티브인지 네가티브인지 구분할 수 있잖아요 클래시피 데이터 바이너리 클래시피케이션 할수 있잖아요|aml.0383.npz
+aml.0163-audio.npy|aml.0163-mel.npy|aml.0163-linear.npy|96900|323|네거티브들 중에서 우리가 파저티브라고 한 비율|aml.0163.npz
+aml.0519-audio.npy|aml.0519-mel.npy|aml.0519-linear.npy|225300|751|함수를 추가를 하고 그 담에 다시 또 떠블유 투를 해서 또 선형 함수를 한 다음에 요걸 계속 반복하면 아주 복잡한 뻥션을 배울수 있습|aml.0519.npz
+aml.0198-audio.npy|aml.0198-mel.npy|aml.0198-linear.npy|101700|339|비 씨 라는 바운더리가 있죠 어디를 넘으면 안돼요 마이너스는 원래|aml.0198.npz
+aml.0817-audio.npy|aml.0817-mel.npy|aml.0817-linear.npy|85500|285|일번이랑 오번 집에가셔서 폴랩에서 한번 돌려보시면 |aml.0817.npz
