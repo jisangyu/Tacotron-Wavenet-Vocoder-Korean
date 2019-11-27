@@ -1,3 +1,26 @@
+# 고급 기계 학습 텀 프로젝트
+음성 합성 모델의 성능 향상을 테스트 해보기 위한 프로젝트입니다.
+베이스 라인 코드에 대한 내용은 [hccho2/Tacotron](https://github.com/hccho2/Tacotron-Wavenet-Vocoder-Korean)를 확인하면 됩니다
+
+## 베이스 모델
+son 폴더에 압축을 풀것
+aml 폴더에 전처리 완료된 파일 사용하면 됨
+
+## 훈련 시작
+python train_tacotron.py 
+디폴트 입력으로 aml 파인튜닝 모드가 지정되어 있음
+
+## 결과 확인
+tensorboard --log_dir={훈련경로} 
+
+# 실험 내용
+- 하이퍼 파라미터 실험
+- 데이터 어규멘테이션 실험
+- 데이터 어댑테이션 실험
+- 데이터 필터링 실험
+
+
+
 # Tocotron + Wavenet Vocoder + Korean TTS
 Tacotron모델과 Wavenet Vocoder를 결합하여  한국어 TTS구현하는 project입니다.
 
