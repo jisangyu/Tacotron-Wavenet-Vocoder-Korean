@@ -14,7 +14,8 @@ python train_tacotron.py
 
 ## loss 결과 확인
 ```
-tensorboard --log_dir={훈련경로} 
+tensorboard --logdir={훈련경로} 
+tensorboard --logdir=/Users/dbdb38/tts/Tacotron-Wavenet-Vocoder-Korean/datasets/son
 ```
 
 # 실험 내용
