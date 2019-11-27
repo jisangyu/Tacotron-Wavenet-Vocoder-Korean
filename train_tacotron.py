@@ -269,9 +269,9 @@ def main():
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--num_test_per_speaker', type=int, default=2)
     parser.add_argument('--random_seed', type=int, default=123)
-    parser.add_argument('--summary_interval', type=int, default=100000)
-    parser.add_argument('--test_interval', type=int, default=10)  # 500
-    parser.add_argument('--checkpoint_interval', type=int, default=30) # 2000
+    parser.add_argument('--summary_interval', type=int, default=100)
+    parser.add_argument('--test_interval', type=int, default=50)  # 500
+    parser.add_argument('--checkpoint_interval', type=int, default=50) # 2000
     parser.add_argument('--skip_path_filter', type=str2bool, default=False, help='Use only for debugging')
 
     parser.add_argument('--slack_url', help='Slack webhook URL to get periodic reports.')
