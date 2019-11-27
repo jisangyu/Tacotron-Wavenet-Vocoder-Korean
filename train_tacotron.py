@@ -261,10 +261,10 @@ def main():
     parser.add_argument('--data_paths', default='datasets/outaml')
     
     
-    parser.add_argument('--load_path', default='datasets/son')   # 아래의 'initialize_path'보다 우선 적용
+    parser.add_argument('--load_path', default=None)   # 아래의 'initialize_path'보다 우선 적용
     
     
-    parser.add_argument('--initialize_path', default=None)   # ckpt로 부터 model을 restore하지만, global step은 0에서 시작
+    parser.add_argument('--initialize_path', default='datasets/son')   # ckpt로 부터 model을 restore하지만, global step은 0에서 시작
 
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--num_test_per_speaker', type=int, default=2)
