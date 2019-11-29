@@ -208,7 +208,7 @@ def train(log_dir, config):
 
                 message = 'Step %-7d [%.03f sec/step, loss=%.05f, avg_loss=%.05f]' % (step, time_window.average, loss, loss_window.average)
                 log(message, slack=(step % config.checkpoint_interval == 0))
-
+		
                 if loss > 100 or math.isnan(loss):
                     log('Loss exploded to %.05f at step %d!' % (loss, step), slack=True)
                     raise Exception('Loss Exploded')
@@ -261,15 +261,16 @@ def main():
     parser.add_argument('--data_paths', default='datasets/outaml')
     
     
-    parser.add_argument('--load_path', default=None)   # 아래의 'initialize_path'보다 우선 적용
+    parser.add_argument('--load_path', default='datasets/son')   # 아래의 'initialize_path'보다 우선 적용
+    #parser.add_argument('--load_path', default=None)   # 아래의 'initialize_path'보다 우선 적용
     
     
-    parser.add_argument('--initialize_path', default='datasets/son')   # ckpt로 부터 model을 restore하지만, global step은 0에서 시작
+    parser.add_argument('--initialize_path', default=None)   # ckpt로 부터 model을 restore하지만, global step은 0에서 시작
 
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--num_test_per_speaker', type=int, default=2)
     parser.add_argument('--random_seed', type=int, default=123)
-    parser.add_argument('--summary_interval', type=int, default=100)
+    parser.add_argument('--summary_interval', type=int, default=5)
     parser.add_argument('--test_interval', type=int, default=50)  # 500
     parser.add_argument('--checkpoint_interval', type=int, default=50) # 2000
     parser.add_argument('--skip_path_filter', type=str2bool, default=False, help='Use only for debugging')
